@@ -40,21 +40,6 @@ Some additional migration commands are available on semantic and diagram files a
 | 
 At the end of the migration process, we recommend you to run a manual global refresh on all the diagrams of the migrated project. For more details see the [[../help/topic/org.polarsys.capella.ui.doc/html/05.%20Diagram%20Management/5.1.%20Diagram%20concepts.html?cp=6_1_6_0_1#Diagram_Refreshing_Strategies| Diagram Refreshing Strategies]] section.
 
-|}  
-<br>
-== Capella versions requiring a project migration==
-The following table presents the Capella version transitions that require a project migration.
-
-
-{| border="1"
-! Previous Capella Version
-! Upgraded Capella Version
-|-
-| 1.2.x
-| 1.3.x
-|-
-| 1.3.0
-| 1.3.1
 |}
 
 == Project migration in command line==

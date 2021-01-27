@@ -136,10 +136,13 @@ table.VALIDATION-RULE tbody  {
 }
 
 
-
+.github-link {
+	display: none;
+}
 .VALIDATION-RULE TD {
 	PADDING: 6px;
 }
 
 .VALIDATION-RULE TR TH {
 	WIDTH: 30px;
+}
