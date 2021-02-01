@@ -1,7 +1,7 @@
             
 = Capella Perspective Overview =
  
-Capella is en Eclipse workbench. It comes with a specific Perspective aggregating all the Views required while modeling.
+Capella is an Eclipse workbench. It comes with a specific Perspective aggregating all the Views required while modeling.
 
  
 The Capella Perspective contains:
